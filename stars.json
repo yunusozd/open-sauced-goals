@@ -1,21 +1,21 @@
 [
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 1686,
-    "open_issues_count": 21,
-    "forks_count": 148
+    "stargazers_count": 1697,
+    "open_issues_count": 22,
+    "forks_count": 151
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 30780,
-    "open_issues_count": 474,
-    "forks_count": 1291
+    "stargazers_count": 30876,
+    "open_issues_count": 469,
+    "forks_count": 1295
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 42910,
+    "stargazers_count": 42947,
     "open_issues_count": 12,
-    "forks_count": 8616
+    "forks_count": 8622
   },
   {
     "full_name": "yunusozd/Speller",
@@ -31,44 +31,44 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 65892,
-    "open_issues_count": 12,
+    "stargazers_count": 66010,
+    "open_issues_count": 11,
     "forks_count": 4979
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 91495,
-    "open_issues_count": 80,
-    "forks_count": 10501
+    "stargazers_count": 91854,
+    "open_issues_count": 87,
+    "forks_count": 10523
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 106060,
-    "open_issues_count": 7942,
-    "forks_count": 15645
+    "stargazers_count": 106166,
+    "open_issues_count": 7953,
+    "forks_count": 15648
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 128397,
-    "open_issues_count": 18,
-    "forks_count": 16993
+    "stargazers_count": 128588,
+    "open_issues_count": 17,
+    "forks_count": 17014
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 30052,
+    "stargazers_count": 30313,
     "open_issues_count": 162,
-    "forks_count": 6915
+    "forks_count": 6967
   },
   {
     "full_name": "git/git",
-    "stargazers_count": 44346,
-    "open_issues_count": 118,
-    "forks_count": 24322
+    "stargazers_count": 44381,
+    "open_issues_count": 117,
+    "forks_count": 24329
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 11262,
-    "open_issues_count": 50,
+    "stargazers_count": 11306,
+    "open_issues_count": 52,
     "forks_count": 211
   },
   {
@@ -79,44 +79,44 @@
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 147822,
-    "open_issues_count": 303,
-    "forks_count": 22205
+    "stargazers_count": 148225,
+    "open_issues_count": 307,
+    "forks_count": 22216
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 227365,
+    "stargazers_count": 227906,
     "open_issues_count": 51,
-    "forks_count": 24518
+    "forks_count": 24536
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 48413,
-    "open_issues_count": 826,
-    "forks_count": 6531
+    "stargazers_count": 48574,
+    "open_issues_count": 821,
+    "forks_count": 6544
   },
   {
     "full_name": "nas5w/100-days-of-code-frontend",
-    "stargazers_count": 2545,
+    "stargazers_count": 2544,
     "open_issues_count": 4,
     "forks_count": 389
   },
   {
     "full_name": "xingyizhou/CenterNet",
-    "stargazers_count": 6671,
+    "stargazers_count": 6678,
     "open_issues_count": 425,
-    "forks_count": 1871
+    "forks_count": 1870
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 149148,
-    "open_issues_count": 109,
-    "forks_count": 38329
+    "stargazers_count": 149330,
+    "open_issues_count": 111,
+    "forks_count": 38355
   },
   {
     "full_name": "microsoft/WebTemplateStudio",
     "stargazers_count": 1970,
     "open_issues_count": 114,
-    "forks_count": 207
+    "forks_count": 205
   }
 ]
