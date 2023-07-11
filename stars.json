@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "AlbertaSat/ex2_obc_software",
+    "stargazers_count": 8,
+    "open_issues_count": 6,
+    "forks_count": 7
+  },
+  {
+    "full_name": "daniestevez/gr-satellites",
+    "stargazers_count": 676,
+    "open_issues_count": 18,
+    "forks_count": 144
+  },
+  {
+    "full_name": "ArduSat/ArdusatSDK",
+    "stargazers_count": 65,
+    "open_issues_count": 3,
+    "forks_count": 24
+  },
+  {
+    "full_name": "Quetzal-1-CubeSat-Team/quetzal1-telemetry",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "Quetzal-1-CubeSat-Team/quetzal1-flight-software",
+    "stargazers_count": 34,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "nasa/nos3",
+    "stargazers_count": 170,
+    "open_issues_count": 41,
+    "forks_count": 53
+  },
+  {
     "full_name": "abdulkadrtr/ROS2-FrontierBaseExplorationForAutonomousRobot",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -19,21 +55,21 @@
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 3338,
+    "stargazers_count": 3349,
     "open_issues_count": 48,
-    "forks_count": 304
+    "forks_count": 306
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 35005,
-    "open_issues_count": 559,
-    "forks_count": 1492
+    "stargazers_count": 35051,
+    "open_issues_count": 560,
+    "forks_count": 1499
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 50808,
-    "open_issues_count": 7,
-    "forks_count": 10581
+    "stargazers_count": 51018,
+    "open_issues_count": 10,
+    "forks_count": 10628
   },
   {
     "full_name": "yunusozd/Speller",
@@ -49,45 +85,45 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 74833,
+    "stargazers_count": 74907,
     "open_issues_count": 7,
-    "forks_count": 5580
+    "forks_count": 5591
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 104326,
-    "open_issues_count": 150,
-    "forks_count": 11073
+    "stargazers_count": 104513,
+    "open_issues_count": 151,
+    "forks_count": 11081
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 112610,
-    "open_issues_count": 8481,
-    "forks_count": 16803
+    "stargazers_count": 112677,
+    "open_issues_count": 8512,
+    "forks_count": 16817
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 145315,
+    "stargazers_count": 145644,
     "open_issues_count": 15,
-    "forks_count": 18699
+    "forks_count": 18748
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 37008,
-    "open_issues_count": 278,
-    "forks_count": 8764
+    "stargazers_count": 37082,
+    "open_issues_count": 282,
+    "forks_count": 8779
   },
   {
     "full_name": "git/git",
-    "stargazers_count": 46709,
+    "stargazers_count": 46740,
     "open_issues_count": 146,
-    "forks_count": 25265
+    "forks_count": 25281
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 13790,
-    "open_issues_count": 67,
-    "forks_count": 269
+    "stargazers_count": 13816,
+    "open_issues_count": 74,
+    "forks_count": 270
   },
   {
     "full_name": "yunusozd/C-projeleri",
@@ -97,44 +133,44 @@
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 173124,
-    "open_issues_count": 362,
-    "forks_count": 23484
+    "stargazers_count": 173493,
+    "open_issues_count": 367,
+    "forks_count": 23505
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 260856,
-    "open_issues_count": 52,
-    "forks_count": 26173
+    "stargazers_count": 261296,
+    "open_issues_count": 51,
+    "forks_count": 26191
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 51716,
-    "open_issues_count": 809,
-    "forks_count": 6860
+    "stargazers_count": 51744,
+    "open_issues_count": 810,
+    "forks_count": 6864
   },
   {
     "full_name": "nas5w/100-days-of-code-frontend",
-    "stargazers_count": 2590,
+    "stargazers_count": 2593,
     "open_issues_count": 4,
     "forks_count": 416
   },
   {
     "full_name": "xingyizhou/CenterNet",
-    "stargazers_count": 6907,
+    "stargazers_count": 6912,
     "open_issues_count": 438,
-    "forks_count": 1919
+    "forks_count": 1918
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 160644,
-    "open_issues_count": 156,
-    "forks_count": 40683
+    "stargazers_count": 160753,
+    "open_issues_count": 161,
+    "forks_count": 40731
   },
   {
     "full_name": "microsoft/WebTemplateStudio",
-    "stargazers_count": 1994,
-    "open_issues_count": 131,
+    "stargazers_count": 1995,
+    "open_issues_count": 132,
     "forks_count": 207
   }
 ]
