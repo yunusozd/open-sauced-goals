@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Futrell/ziplm",
+    "stargazers_count": 187,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
     "full_name": "NVIDIA-AI-IOT/cuPCL",
     "stargazers_count": 349,
     "open_issues_count": 44,
@@ -13,14 +19,14 @@
   },
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
-    "stargazers_count": 493,
+    "stargazers_count": 495,
     "open_issues_count": 21,
     "forks_count": 81
   },
   {
     "full_name": "jvde-github/AIS-catcher-for-Android",
-    "stargazers_count": 60,
-    "open_issues_count": 2,
+    "stargazers_count": 64,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 675,
-    "open_issues_count": 17,
-    "forks_count": 145
+    "stargazers_count": 676,
+    "open_issues_count": 18,
+    "forks_count": 146
   },
   {
     "full_name": "ArduSat/ArdusatSDK",
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "Quetzal-1-CubeSat-Team/quetzal1-flight-software",
-    "stargazers_count": 36,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "nasa/nos3",
     "stargazers_count": 174,
-    "open_issues_count": 42,
-    "forks_count": 53
+    "open_issues_count": 39,
+    "forks_count": 54
   },
   {
     "full_name": "abdulkadrtr/ROS2-FrontierBaseExplorationForAutonomousRobot",
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 3361,
+    "stargazers_count": 3371,
     "open_issues_count": 49,
-    "forks_count": 306
+    "forks_count": 309
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 35100,
-    "open_issues_count": 560,
-    "forks_count": 1502
+    "stargazers_count": 35178,
+    "open_issues_count": 565,
+    "forks_count": 1510
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 51104,
-    "open_issues_count": 10,
-    "forks_count": 10650
+    "stargazers_count": 51198,
+    "open_issues_count": 11,
+    "forks_count": 10677
   },
   {
     "full_name": "yunusozd/Speller",
@@ -115,44 +121,44 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 74981,
+    "stargazers_count": 75058,
     "open_issues_count": 7,
-    "forks_count": 5594
+    "forks_count": 5601
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 104698,
-    "open_issues_count": 151,
+    "stargazers_count": 104882,
+    "open_issues_count": 153,
     "forks_count": 11088
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 112767,
-    "open_issues_count": 8496,
-    "forks_count": 16829
+    "stargazers_count": 112843,
+    "open_issues_count": 8517,
+    "forks_count": 16843
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 145823,
+    "stargazers_count": 145981,
     "open_issues_count": 15,
-    "forks_count": 18766
+    "forks_count": 18784
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 37204,
-    "open_issues_count": 283,
-    "forks_count": 8817
+    "stargazers_count": 37299,
+    "open_issues_count": 284,
+    "forks_count": 8841
   },
   {
     "full_name": "git/git",
-    "stargazers_count": 46759,
-    "open_issues_count": 146,
-    "forks_count": 25283
+    "stargazers_count": 46781,
+    "open_issues_count": 147,
+    "forks_count": 25290
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 13838,
-    "open_issues_count": 74,
+    "stargazers_count": 13862,
+    "open_issues_count": 76,
     "forks_count": 270
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 173807,
-    "open_issues_count": 368,
-    "forks_count": 23520
+    "stargazers_count": 174174,
+    "open_issues_count": 369,
+    "forks_count": 23539
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 261621,
-    "open_issues_count": 52,
-    "forks_count": 26202
-  },
-  {
-    "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 51758,
-    "open_issues_count": 809,
-    "forks_count": 6861
+    "stargazers_count": 262058,
+    "open_issues_count": 51,
+    "forks_count": 26217
   }
 ]
