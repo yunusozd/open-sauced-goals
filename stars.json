@@ -1,15 +1,15 @@
 [
   {
     "full_name": "Futrell/ziplm",
-    "stargazers_count": 206,
+    "stargazers_count": 208,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "NVIDIA-AI-IOT/cuPCL",
-    "stargazers_count": 354,
+    "stargazers_count": 357,
     "open_issues_count": 43,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "NVIDIA-AI-IOT/ros2_jetson",
@@ -20,25 +20,25 @@
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
     "stargazers_count": 498,
-    "open_issues_count": 23,
+    "open_issues_count": 18,
     "forks_count": 82
   },
   {
     "full_name": "jvde-github/AIS-catcher-for-Android",
-    "stargazers_count": 66,
+    "stargazers_count": 68,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "dernasherbrezon/r2cloud",
     "stargazers_count": 228,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 31
   },
   {
     "full_name": "AlbertaSat/ex2_obc_software",
     "stargazers_count": 8,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "Quetzal-1-CubeSat-Team/quetzal1-flight-software",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "nasa/nos3",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 41,
     "forks_count": 55
   },
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "abdulkadrtr/ROS2-PurePursuitControl-PathPlanning-Tracking",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 3388,
+    "stargazers_count": 3394,
     "open_issues_count": 49,
-    "forks_count": 309
+    "forks_count": 310
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 35273,
-    "open_issues_count": 569,
-    "forks_count": 1510
+    "stargazers_count": 35318,
+    "open_issues_count": 571,
+    "forks_count": 1512
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 51410,
+    "stargazers_count": 52421,
     "open_issues_count": 13,
-    "forks_count": 10739
+    "forks_count": 10850
   },
   {
     "full_name": "yunusozd/Speller",
@@ -121,45 +121,45 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 75207,
+    "stargazers_count": 75275,
     "open_issues_count": 10,
-    "forks_count": 5609
+    "forks_count": 5610
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 105245,
-    "open_issues_count": 158,
-    "forks_count": 11104
+    "stargazers_count": 105414,
+    "open_issues_count": 159,
+    "forks_count": 11113
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 112996,
-    "open_issues_count": 8557,
-    "forks_count": 16875
+    "stargazers_count": 113079,
+    "open_issues_count": 8548,
+    "forks_count": 16884
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 146247,
+    "stargazers_count": 146378,
     "open_issues_count": 16,
-    "forks_count": 18812
+    "forks_count": 18819
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 37414,
-    "open_issues_count": 292,
-    "forks_count": 8888
+    "stargazers_count": 37479,
+    "open_issues_count": 294,
+    "forks_count": 8898
   },
   {
     "full_name": "git/git",
-    "stargazers_count": 46841,
-    "open_issues_count": 148,
-    "forks_count": 25299
+    "stargazers_count": 46881,
+    "open_issues_count": 146,
+    "forks_count": 25305
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 13962,
-    "open_issues_count": 79,
-    "forks_count": 273
+    "stargazers_count": 14117,
+    "open_issues_count": 76,
+    "forks_count": 275
   },
   {
     "full_name": "yunusozd/C-projeleri",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 174803,
+    "stargazers_count": 175124,
     "open_issues_count": 370,
-    "forks_count": 23557
+    "forks_count": 23573
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 262835,
-    "open_issues_count": 52,
-    "forks_count": 26237
+    "stargazers_count": 263281,
+    "open_issues_count": 51,
+    "forks_count": 26254
   }
 ]
