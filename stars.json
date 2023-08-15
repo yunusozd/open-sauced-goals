@@ -1,15 +1,33 @@
 [
   {
+    "full_name": "pa2rdk/ESP32-144MHz-APRS-Transceiver",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "altillimity/AltiWx",
+    "stargazers_count": 27,
+    "open_issues_count": 9,
+    "forks_count": 11
+  },
+  {
+    "full_name": "SatDump/SatDump",
+    "stargazers_count": 700,
+    "open_issues_count": 32,
+    "forks_count": 87
+  },
+  {
     "full_name": "asottile/babi",
-    "stargazers_count": 326,
+    "stargazers_count": 328,
     "open_issues_count": 15,
     "forks_count": 43
   },
   {
     "full_name": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
-    "stargazers_count": 14378,
+    "stargazers_count": 14400,
     "open_issues_count": 102,
-    "forks_count": 3800
+    "forks_count": 3805
   },
   {
     "full_name": "xmeng17/UKF",
@@ -19,14 +37,14 @@
   },
   {
     "full_name": "Futrell/ziplm",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "NVIDIA-AI-IOT/cuPCL",
     "stargazers_count": 364,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "forks_count": 71
   },
   {
@@ -37,8 +55,8 @@
   },
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
-    "stargazers_count": 512,
-    "open_issues_count": 21,
+    "stargazers_count": 514,
+    "open_issues_count": 16,
     "forks_count": 82
   },
   {
@@ -109,21 +127,21 @@
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 3433,
+    "stargazers_count": 3450,
     "open_issues_count": 49,
-    "forks_count": 318
+    "forks_count": 321
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 35494,
-    "open_issues_count": 576,
-    "forks_count": 1510
+    "stargazers_count": 35626,
+    "open_issues_count": 579,
+    "forks_count": 1514
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 53044,
+    "stargazers_count": 53092,
     "open_issues_count": 12,
-    "forks_count": 11007
+    "forks_count": 11031
   },
   {
     "full_name": "yunusozd/Speller",
@@ -139,44 +157,26 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 75590,
+    "stargazers_count": 75670,
     "open_issues_count": 11,
-    "forks_count": 5631
+    "forks_count": 5633
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 106187,
-    "open_issues_count": 171,
-    "forks_count": 11157
+    "stargazers_count": 106406,
+    "open_issues_count": 172,
+    "forks_count": 11153
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 113471,
-    "open_issues_count": 8617,
-    "forks_count": 16964
+    "stargazers_count": 113588,
+    "open_issues_count": 8640,
+    "forks_count": 16982
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 146930,
+    "stargazers_count": 147185,
     "open_issues_count": 17,
-    "forks_count": 18878
-  },
-  {
-    "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 37773,
-    "open_issues_count": 297,
-    "forks_count": 8957
-  },
-  {
-    "full_name": "git/git",
-    "stargazers_count": 46988,
-    "open_issues_count": 149,
-    "forks_count": 25320
-  },
-  {
-    "full_name": "charmbracelet/gum",
-    "stargazers_count": 14275,
-    "open_issues_count": 79,
-    "forks_count": 279
+    "forks_count": 18903
   }
 ]
