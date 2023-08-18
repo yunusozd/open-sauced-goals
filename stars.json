@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "egemenimre/satkit",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "opengeos/segment-geospatial",
+    "stargazers_count": 2100,
+    "open_issues_count": 10,
+    "forks_count": 195
+  },
+  {
+    "full_name": "libcsp/libcsp",
+    "stargazers_count": 414,
+    "open_issues_count": 25,
+    "forks_count": 229
+  },
+  {
     "full_name": "pa2rdk/ESP32-144MHz-APRS-Transceiver",
-    "stargazers_count": 4,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -13,8 +31,8 @@
   },
   {
     "full_name": "SatDump/SatDump",
-    "stargazers_count": 700,
-    "open_issues_count": 32,
+    "stargazers_count": 705,
+    "open_issues_count": 33,
     "forks_count": 87
   },
   {
@@ -25,9 +43,9 @@
   },
   {
     "full_name": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
-    "stargazers_count": 14400,
+    "stargazers_count": 14419,
     "open_issues_count": 102,
-    "forks_count": 3805
+    "forks_count": 3813
   },
   {
     "full_name": "xmeng17/UKF",
@@ -37,13 +55,13 @@
   },
   {
     "full_name": "Futrell/ziplm",
-    "stargazers_count": 214,
+    "stargazers_count": 218,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "NVIDIA-AI-IOT/cuPCL",
-    "stargazers_count": 364,
+    "stargazers_count": 368,
     "open_issues_count": 47,
     "forks_count": 71
   },
@@ -55,9 +73,9 @@
   },
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
-    "stargazers_count": 514,
+    "stargazers_count": 517,
     "open_issues_count": 16,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "jvde-github/AIS-catcher-for-Android",
@@ -87,7 +105,7 @@
     "full_name": "ArduSat/ArdusatSDK",
     "stargazers_count": 65,
     "open_issues_count": 3,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "Quetzal-1-CubeSat-Team/quetzal1-telemetry",
@@ -105,7 +123,7 @@
     "full_name": "nasa/nos3",
     "stargazers_count": 179,
     "open_issues_count": 39,
-    "forks_count": 56
+    "forks_count": 55
   },
   {
     "full_name": "abdulkadrtr/ROS2-FrontierBaseExplorationForAutonomousRobot",
@@ -127,21 +145,21 @@
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 3450,
+    "stargazers_count": 3463,
     "open_issues_count": 49,
-    "forks_count": 321
+    "forks_count": 323
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 35626,
-    "open_issues_count": 579,
+    "stargazers_count": 35691,
+    "open_issues_count": 583,
     "forks_count": 1514
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 53092,
+    "stargazers_count": 53128,
     "open_issues_count": 12,
-    "forks_count": 11031
+    "forks_count": 11048
   },
   {
     "full_name": "yunusozd/Speller",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 75670,
+    "stargazers_count": 75733,
     "open_issues_count": 11,
-    "forks_count": 5633
-  },
-  {
-    "full_name": "avelino/awesome-go",
-    "stargazers_count": 106406,
-    "open_issues_count": 172,
-    "forks_count": 11153
-  },
-  {
-    "full_name": "golang/go",
-    "stargazers_count": 113588,
-    "open_issues_count": 8640,
-    "forks_count": 16982
-  },
-  {
-    "full_name": "ossu/computer-science",
-    "stargazers_count": 147185,
-    "open_issues_count": 17,
-    "forks_count": 18903
+    "forks_count": 5635
   }
 ]
