@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tapparelj/gr-lora_sdr",
-    "stargazers_count": 396,
-    "open_issues_count": 3,
-    "forks_count": 51
+    "stargazers_count": 465,
+    "open_issues_count": 2,
+    "forks_count": 54
   },
   {
     "full_name": "egemenimre/satkit",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "opengeos/segment-geospatial",
-    "stargazers_count": 2109,
-    "open_issues_count": 12,
-    "forks_count": 198
+    "stargazers_count": 2121,
+    "open_issues_count": 9,
+    "forks_count": 201
   },
   {
     "full_name": "libcsp/libcsp",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "SatDump/SatDump",
-    "stargazers_count": 714,
-    "open_issues_count": 35,
-    "forks_count": 88
+    "stargazers_count": 719,
+    "open_issues_count": 32,
+    "forks_count": 90
   },
   {
     "full_name": "asottile/babi",
-    "stargazers_count": 329,
+    "stargazers_count": 332,
     "open_issues_count": 15,
     "forks_count": 43
   },
   {
     "full_name": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
-    "stargazers_count": 14432,
+    "stargazers_count": 14445,
     "open_issues_count": 102,
-    "forks_count": 3814
+    "forks_count": 3819
   },
   {
     "full_name": "xmeng17/UKF",
@@ -67,20 +67,20 @@
   },
   {
     "full_name": "NVIDIA-AI-IOT/cuPCL",
-    "stargazers_count": 369,
+    "stargazers_count": 370,
     "open_issues_count": 47,
     "forks_count": 71
   },
   {
     "full_name": "NVIDIA-AI-IOT/ros2_jetson",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 4,
     "forks_count": 20
   },
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
-    "stargazers_count": 525,
-    "open_issues_count": 17,
+    "stargazers_count": 527,
+    "open_issues_count": 18,
     "forks_count": 83
   },
   {
@@ -105,7 +105,7 @@
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 677,
     "open_issues_count": 21,
-    "forks_count": 148
+    "forks_count": 149
   },
   {
     "full_name": "ArduSat/ArdusatSDK",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "nateraw/stable-diffusion-videos",
-    "stargazers_count": 3473,
+    "stargazers_count": 3482,
     "open_issues_count": 49,
-    "forks_count": 324
+    "forks_count": 325
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 35740,
-    "open_issues_count": 583,
-    "forks_count": 1516
+    "stargazers_count": 35780,
+    "open_issues_count": 587,
+    "forks_count": 1517
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 53187,
+    "stargazers_count": 53241,
     "open_issues_count": 13,
-    "forks_count": 11064
+    "forks_count": 11083
   },
   {
     "full_name": "yunusozd/Speller",
