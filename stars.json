@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "hsfl/artemis-cubesat",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hsfl/artemis",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 31036,
-    "open_issues_count": 57,
-    "forks_count": 960
+    "stargazers_count": 33080,
+    "open_issues_count": 23,
+    "forks_count": 1001
   },
   {
     "full_name": "w111liang222/lidar-slam-detection",
-    "stargazers_count": 261,
+    "stargazers_count": 269,
     "open_issues_count": 8,
-    "forks_count": 59
+    "forks_count": 62
   },
   {
     "full_name": "evan-palmer/blue",
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "tapparelj/gr-lora_sdr",
-    "stargazers_count": 485,
+    "stargazers_count": 488,
     "open_issues_count": 2,
     "forks_count": 54
   },
@@ -43,15 +55,15 @@
   },
   {
     "full_name": "opengeos/segment-geospatial",
-    "stargazers_count": 2162,
-    "open_issues_count": 10,
-    "forks_count": 207
+    "stargazers_count": 2170,
+    "open_issues_count": 11,
+    "forks_count": 209
   },
   {
     "full_name": "libcsp/libcsp",
     "stargazers_count": 417,
-    "open_issues_count": 27,
-    "forks_count": 230
+    "open_issues_count": 26,
+    "forks_count": 231
   },
   {
     "full_name": "pa2rdk/ESP32-144MHz-APRS-Transceiver",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "SatDump/SatDump",
-    "stargazers_count": 732,
+    "stargazers_count": 742,
     "open_issues_count": 35,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "asottile/babi",
@@ -79,9 +91,9 @@
   },
   {
     "full_name": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
-    "stargazers_count": 14481,
+    "stargazers_count": 14499,
     "open_issues_count": 103,
-    "forks_count": 3829
+    "forks_count": 3838
   },
   {
     "full_name": "xmeng17/UKF",
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "NVIDIA-AI-IOT/cuPCL",
-    "stargazers_count": 373,
+    "stargazers_count": 389,
     "open_issues_count": 47,
-    "forks_count": 72
+    "forks_count": 76
   },
   {
     "full_name": "NVIDIA-AI-IOT/ros2_jetson",
@@ -109,19 +121,19 @@
   },
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
-    "stargazers_count": 530,
-    "open_issues_count": 20,
-    "forks_count": 84
+    "stargazers_count": 533,
+    "open_issues_count": 21,
+    "forks_count": 85
   },
   {
     "full_name": "jvde-github/AIS-catcher-for-Android",
-    "stargazers_count": 68,
+    "stargazers_count": 70,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "dernasherbrezon/r2cloud",
-    "stargazers_count": 232,
+    "stargazers_count": 233,
     "open_issues_count": 12,
     "forks_count": 31
   },
@@ -133,7 +145,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 680,
+    "stargazers_count": 681,
     "open_issues_count": 21,
     "forks_count": 149
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "nasa/nos3",
-    "stargazers_count": 180,
+    "stargazers_count": 191,
     "open_issues_count": 39,
-    "forks_count": 55
+    "forks_count": 57
   },
   {
     "full_name": "abdulkadrtr/ROS2-FrontierBaseExplorationForAutonomousRobot",
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "abdulkadrtr/mapMergeForMultiRobotMapping-ROS2",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "abdulkadrtr/ROS2-PurePursuitControl-PathPlanning-Tracking",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
