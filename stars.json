@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "lsmor/snake-fury",
+    "stargazers_count": 307,
+    "open_issues_count": 0,
+    "forks_count": 20
+  },
+  {
+    "full_name": "opengeos/leafmap",
+    "stargazers_count": 1791,
+    "open_issues_count": 3,
+    "forks_count": 237
+  },
+  {
+    "full_name": "allenai/satlas",
+    "stargazers_count": 70,
+    "open_issues_count": 3,
+    "forks_count": 5
+  },
+  {
     "full_name": "hsfl/artemis-cubesat",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,19 +25,19 @@
   },
   {
     "full_name": "hsfl/artemis",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 33080,
-    "open_issues_count": 23,
-    "forks_count": 1001
+    "stargazers_count": 34111,
+    "open_issues_count": 16,
+    "forks_count": 1040
   },
   {
     "full_name": "w111liang222/lidar-slam-detection",
-    "stargazers_count": 269,
+    "stargazers_count": 271,
     "open_issues_count": 8,
     "forks_count": 62
   },
@@ -43,7 +61,7 @@
   },
   {
     "full_name": "tapparelj/gr-lora_sdr",
-    "stargazers_count": 488,
+    "stargazers_count": 490,
     "open_issues_count": 2,
     "forks_count": 54
   },
@@ -55,14 +73,14 @@
   },
   {
     "full_name": "opengeos/segment-geospatial",
-    "stargazers_count": 2170,
-    "open_issues_count": 11,
+    "stargazers_count": 2178,
+    "open_issues_count": 13,
     "forks_count": 209
   },
   {
     "full_name": "libcsp/libcsp",
     "stargazers_count": 417,
-    "open_issues_count": 26,
+    "open_issues_count": 25,
     "forks_count": 231
   },
   {
@@ -79,21 +97,21 @@
   },
   {
     "full_name": "SatDump/SatDump",
-    "stargazers_count": 742,
-    "open_issues_count": 35,
+    "stargazers_count": 743,
+    "open_issues_count": 34,
     "forks_count": 93
   },
   {
     "full_name": "asottile/babi",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "open_issues_count": 15,
     "forks_count": 43
   },
   {
     "full_name": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
-    "stargazers_count": 14499,
-    "open_issues_count": 103,
-    "forks_count": 3838
+    "stargazers_count": 14513,
+    "open_issues_count": 104,
+    "forks_count": 3843
   },
   {
     "full_name": "xmeng17/UKF",
@@ -103,15 +121,15 @@
   },
   {
     "full_name": "Futrell/ziplm",
-    "stargazers_count": 226,
+    "stargazers_count": 228,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "full_name": "NVIDIA-AI-IOT/cuPCL",
-    "stargazers_count": 389,
-    "open_issues_count": 47,
-    "forks_count": 76
+    "stargazers_count": 398,
+    "open_issues_count": 48,
+    "forks_count": 77
   },
   {
     "full_name": "NVIDIA-AI-IOT/ros2_jetson",
@@ -121,9 +139,9 @@
   },
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
-    "stargazers_count": 533,
+    "stargazers_count": 538,
     "open_issues_count": 21,
-    "forks_count": 85
+    "forks_count": 87
   },
   {
     "full_name": "jvde-github/AIS-catcher-for-Android",
@@ -133,7 +151,7 @@
   },
   {
     "full_name": "dernasherbrezon/r2cloud",
-    "stargazers_count": 233,
+    "stargazers_count": 234,
     "open_issues_count": 12,
     "forks_count": 31
   },
@@ -153,30 +171,12 @@
     "full_name": "ArduSat/ArdusatSDK",
     "stargazers_count": 66,
     "open_issues_count": 3,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "Quetzal-1-CubeSat-Team/quetzal1-telemetry",
     "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "Quetzal-1-CubeSat-Team/quetzal1-flight-software",
-    "stargazers_count": 39,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "nasa/nos3",
-    "stargazers_count": 191,
-    "open_issues_count": 39,
-    "forks_count": 57
-  },
-  {
-    "full_name": "abdulkadrtr/ROS2-FrontierBaseExplorationForAutonomousRobot",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
