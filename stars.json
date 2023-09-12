@@ -1,21 +1,51 @@
 [
   {
-    "full_name": "lsmor/snake-fury",
-    "stargazers_count": 307,
+    "full_name": "mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+    "stargazers_count": 801,
     "open_issues_count": 0,
-    "forks_count": 20
+    "forks_count": 202
+  },
+  {
+    "full_name": "opengeos/maxar-open-data",
+    "stargazers_count": 105,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "PCrnjak/Faze4-Robotic-arm",
+    "stargazers_count": 454,
+    "open_issues_count": 8,
+    "forks_count": 103
+  },
+  {
+    "full_name": "hobofan/collected-robotic-arms",
+    "stargazers_count": 95,
+    "open_issues_count": 7,
+    "forks_count": 26
+  },
+  {
+    "full_name": "PCrnjak/PAROL6-Desktop-robot-arm",
+    "stargazers_count": 403,
+    "open_issues_count": 1,
+    "forks_count": 22
+  },
+  {
+    "full_name": "lsmor/snake-fury",
+    "stargazers_count": 352,
+    "open_issues_count": 0,
+    "forks_count": 22
   },
   {
     "full_name": "opengeos/leafmap",
-    "stargazers_count": 1791,
+    "stargazers_count": 1800,
     "open_issues_count": 3,
     "forks_count": 237
   },
   {
     "full_name": "allenai/satlas",
-    "stargazers_count": 70,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "stargazers_count": 73,
+    "open_issues_count": 2,
+    "forks_count": 6
   },
   {
     "full_name": "hsfl/artemis-cubesat",
@@ -25,32 +55,32 @@
   },
   {
     "full_name": "hsfl/artemis",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 34111,
-    "open_issues_count": 16,
-    "forks_count": 1040
+    "stargazers_count": 34788,
+    "open_issues_count": 25,
+    "forks_count": 1050
   },
   {
     "full_name": "w111liang222/lidar-slam-detection",
-    "stargazers_count": 271,
+    "stargazers_count": 274,
     "open_issues_count": 8,
     "forks_count": 62
   },
   {
     "full_name": "evan-palmer/blue",
     "stargazers_count": 8,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 1
   },
   {
     "full_name": "acfr/cam_lidar_calibration",
     "stargazers_count": 314,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 78
   },
   {
@@ -62,7 +92,7 @@
   {
     "full_name": "tapparelj/gr-lora_sdr",
     "stargazers_count": 490,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 54
   },
   {
@@ -73,15 +103,15 @@
   },
   {
     "full_name": "opengeos/segment-geospatial",
-    "stargazers_count": 2178,
+    "stargazers_count": 2189,
     "open_issues_count": 13,
-    "forks_count": 209
+    "forks_count": 211
   },
   {
     "full_name": "libcsp/libcsp",
-    "stargazers_count": 417,
-    "open_issues_count": 25,
-    "forks_count": 231
+    "stargazers_count": 416,
+    "open_issues_count": 16,
+    "forks_count": 232
   },
   {
     "full_name": "pa2rdk/ESP32-144MHz-APRS-Transceiver",
@@ -97,21 +127,21 @@
   },
   {
     "full_name": "SatDump/SatDump",
-    "stargazers_count": 743,
+    "stargazers_count": 748,
     "open_issues_count": 34,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "asottile/babi",
-    "stargazers_count": 337,
+    "stargazers_count": 338,
     "open_issues_count": 15,
     "forks_count": 43
   },
   {
     "full_name": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
-    "stargazers_count": 14513,
+    "stargazers_count": 14524,
     "open_issues_count": 104,
-    "forks_count": 3843
+    "forks_count": 3847
   },
   {
     "full_name": "xmeng17/UKF",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "NVIDIA-ISAAC-ROS/isaac_ros_visual_slam",
-    "stargazers_count": 538,
-    "open_issues_count": 21,
-    "forks_count": 87
+    "stargazers_count": 540,
+    "open_issues_count": 22,
+    "forks_count": 88
   },
   {
     "full_name": "jvde-github/AIS-catcher-for-Android",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "dernasherbrezon/r2cloud",
-    "stargazers_count": 234,
-    "open_issues_count": 12,
-    "forks_count": 31
-  },
-  {
-    "full_name": "AlbertaSat/ex2_obc_software",
-    "stargazers_count": 8,
-    "open_issues_count": 6,
-    "forks_count": 7
-  },
-  {
-    "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 681,
-    "open_issues_count": 21,
-    "forks_count": 149
-  },
-  {
-    "full_name": "ArduSat/ArdusatSDK",
-    "stargazers_count": 66,
-    "open_issues_count": 3,
-    "forks_count": 24
-  },
-  {
-    "full_name": "Quetzal-1-CubeSat-Team/quetzal1-telemetry",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]
